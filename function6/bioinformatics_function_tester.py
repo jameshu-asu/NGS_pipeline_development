@@ -14,4 +14,4 @@ def fq2fa(fq_path:str, fa_path:str) -> None:
     return None
 
 
-fq2fa('/Users/chaoyihu/Dropbox (ASU)/Lim Lab/Lab members/James Hu/toolkit/bioinformatics/general/dev/Cassette_concept/function6_dev/Callisto_173/fastq/I103143_S65_R1_001.fastq', '/Users/chaoyihu/Dropbox (ASU)/Lim Lab/Lab members/James Hu/toolkit/bioinformatics/general/dev/Cassette_concept/function6_dev/Callisto_173/fastq/I103143_S65_R1_001.fasta')
+fq2fa('/fastq/sample_S65_R1_001.fastq', '/fastq/sample_S65_R1_001.fasta')
