@@ -8,7 +8,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The purpose of this project was to 
+The purpose of this project was to gain deeper understanding of building NGS pipelines.  
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -19,8 +19,10 @@ Scripts are comatable with Python 3.9.14+, Pandas 2.0+, NumPy 1.24+, Biopython 1
 
 * [![Python][Python]][Python-url]
 * [![Pandas][Pandas]][Pandas-url]
-* [![Biopython][Biopython]][Biopython-url]
+* [![Slack][Slack]][Slack-url]
 * [![NumPy][NumPy]][NumPy-url]
+* [![Biopython][Biopython]][Biopython-url]
+* [![Schedule][Schedule]][Schedule-url]
 
 
 ### Installation
@@ -52,6 +54,8 @@ Scripts are comatable with Python 3.9.14+, Pandas 2.0+, NumPy 1.24+, Biopython 1
 [contributors-url]: https://github.com/ASU-Lim-Lab/Absolute-Q/graphs/contributors
 [Biopython]: https://img.shields.io/badge/Biopython-1.80-blue
 [Biopython-url]: https://biopython.org/
+[Schedule]: https://img.shields.io/badge/Schedule-1.2-red
+[Schedule-url]: https://github.com/dbader/schedule
 [NumPy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
 [Numpy-url]: https://numpy.org/
 [Slack]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
