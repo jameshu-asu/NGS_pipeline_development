@@ -1,0 +1,10 @@
+﻿Directory_ID,Directory_name
+parent,new_project_name
+branch1,report_files
+branch1_a,coverage_files
+branch1_b,alignment_files
+branch1_c,consensus_files
+branch2,sample_files
+branch2_a,fastq_files
+branch2_b,fasta_files
+branch3,log_files

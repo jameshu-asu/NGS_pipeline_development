@@ -1,0 +1,2 @@
+Process	Elapsed_time
+MAFFT	69.45029926300049Tree_builder	10.783457040786743
