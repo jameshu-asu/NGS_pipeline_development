@@ -8,7 +8,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The purpose of this project was to gain deeper understanding of building NGS pipelines.  
+The purpose of this project was to explore alternative pipeline building methodologies and to gain deeper understanding of NGS pipelines.  
 
 <!-- GETTING STARTED -->
 ## Getting Started
