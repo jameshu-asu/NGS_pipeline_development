@@ -13,7 +13,7 @@ The purpose of this project was to explore alternative pipeline building methodo
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Scripts are comatable with Python 3.9.14+, Pandas 2.0+, NumPy 1.24+, Biopython 1.80+, Schedule 1.2+, Slack_sdk 3.21.2+.
+Scripts are comatable with Python 3.9.14+, Pandas 2.0+, NumPy 1.24+, Biopython 1.80+, Slack_sdk 3.21.2+.
 
 ### Prerequisites
 
