@@ -19,11 +19,10 @@ Scripts are comatable with Python 3.9.14+, Pandas 2.0+, NumPy 1.24+, Biopython 1
 
 * [![Python][Python]][Python-url]
 * [![Pandas][Pandas]][Pandas-url]
-* [![Slack][Slack]][Slack-url]
 * [![NumPy][NumPy]][NumPy-url]
 * [![Biopython][Biopython]][Biopython-url]
 * [![Schedule][Schedule]][Schedule-url]
-
+* [![Slack][Slack]][Slack-url]
 
 ### Installation
 
@@ -32,11 +31,15 @@ Scripts are comatable with Python 3.9.14+, Pandas 2.0+, NumPy 1.24+, Biopython 1
   ```
 
   ```sh
-  conda install pandas
+  conda install -c conda-forge pandas
   ```
 
   ```sh
-  conda install numpy
+  cconda install -c conda-forge numpy
+  ```
+
+  ```sh
+  conda install -c conda-forge biopython
   ```
 
   ```sh
