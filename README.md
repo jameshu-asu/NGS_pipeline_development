@@ -35,7 +35,7 @@ Scripts are comatable with Python 3.9.14+, Pandas 2.0+, NumPy 1.24+, Biopython 1
   ```
 
   ```sh
-  cconda install -c conda-forge numpy
+  conda install -c conda-forge numpy
   ```
 
   ```sh
