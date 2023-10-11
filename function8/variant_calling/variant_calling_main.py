@@ -1,6 +1,8 @@
 from HAdV_iVar_helper import *
 import time, os
 
+#By James C. Hu
+
 run = 365
 
 ivar_directory_setup(run)
