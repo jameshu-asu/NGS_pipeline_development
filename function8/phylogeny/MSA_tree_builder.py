@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import time
 import sys
 
+#By James C. Hu
 
 def MSA_mafft(infile: str) -> None:
     '''This funciton perfrom MSA on combined consensus file using MAFFT
