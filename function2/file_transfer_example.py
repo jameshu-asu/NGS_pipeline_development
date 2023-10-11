@@ -3,6 +3,8 @@ import os
 import subprocess
 from pathlib import Path
 
+#By James C. Hu
+
 def file_transfer(input_file: pd.DataFrame) -> None:
     '''Input file MUST have the following columns:
     1) Seq_ID
