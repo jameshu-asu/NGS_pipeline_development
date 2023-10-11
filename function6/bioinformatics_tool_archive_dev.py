@@ -5,6 +5,7 @@ import os
 import subprocess
 from Bio import SeqIO
 
+#By James C. Hu
 #______General_____#
 
 def concat_files(input1_path:str, input2_path:str, output_name_path:str) -> None:
