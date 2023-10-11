@@ -5,6 +5,7 @@ import os
 import subprocess
 from Bio import SeqIO
 
+#By James C. Hu
 
 def fq2fa(fq_path:str, fa_path:str) -> None:
     with open(fq_path, 'r') as f1, open(fa_path, 'w') as f2:
