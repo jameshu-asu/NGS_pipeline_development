@@ -1,5 +1,7 @@
 from Bio.Align.Applications import MafftCommandline
 
+#By James C. Hu
+
 def MSA_mafft(infile: str) -> None:
     '''This function will:
     1) Perfrom MSA on combined consensus files.
