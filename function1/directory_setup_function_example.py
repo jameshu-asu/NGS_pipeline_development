@@ -2,6 +2,7 @@ import pandas as pd
 import os
 from itertools import zip_longest
 
+#By James C. Hu
 # Function to be imported from production script.
 def generate_project_directory(input_file: pd.DataFrame) -> None:
     '''
