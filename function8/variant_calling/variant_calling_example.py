@@ -3,6 +3,7 @@ import numpy as np
 from typing import Tuple
 import subprocess, os, shutil
 
+#By James C. Hu
 
 def ivar_directory_setup(run) -> None:
     os.mkdir(f'{run}_iVar_analysis')
