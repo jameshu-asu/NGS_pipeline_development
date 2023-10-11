@@ -4,6 +4,8 @@ from Bio.Phylo.TreeConstruction import DistanceCalculator
 from Bio.Phylo.TreeConstruction import DistanceTreeConstructor
 import matplotlib.pyplot as plt
 
+#By James C. Hu
+
 def tree_builder_fa(alined_fasta_file:str) -> None:
     '''Builds Phylogenetic tree using alignment file generated during MSA
     input: Aligned fasta file
